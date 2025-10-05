@@ -1,0 +1,21 @@
+# Maven target directory
+/target/
+
+# IDE specific files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Maven wrapper (if later added)
+.mvn/
+.mvnr/
